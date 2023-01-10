@@ -1,0 +1,32 @@
+.pointer {
+  cursor: pointer;
+}
+.link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.product-detail-content {
+  display: flex;
+  padding: 10px 0;
+}
+
+.product-detail-item {
+  margin-right: 10px !important;
+}
+
+.product-detail-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.button-action {
+  text-transform: initial !important;
+  margin: 15px;
+  background-color: #1d738c !important;
+  color: white !important;
+  border-radius: 20px !important;
+  margin: 10px !important;
+  min-width: 150px !important;
+}

@@ -1,0 +1,24 @@
+{
+  "header": {
+    "name": {
+      "title": "Name",
+      "type": "Text",
+      "length": 255
+    },
+    "brand": {
+      "title": "Brand",
+      "type": "Text",
+      "length": 255
+    },
+    "madein": {
+      "title": "Made In",
+      "type": "Text",
+      "length": 255
+    },
+    "price": {
+      "title": "Price",
+      "type": "Text",
+      "length": 255
+    }
+  }
+}
